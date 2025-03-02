@@ -12,7 +12,7 @@ This Power BI dashboard provides insights into employee attrition, helping HR pr
 
 
 📂 Dataset Information 
-- Source: 
+- Source: https://www.kaggle.com/api/v1/datasets/download/pavansubhasht/ibm-hr-analytics-attrition-dataset 
 - Total Records: nearly 15,000
 - Key Columns: 
   - Employee ID  
