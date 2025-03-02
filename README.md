@@ -4,7 +4,7 @@
 
 
 Employee Attrition Analysis Dashboard 
-📊 Power BI Report  
+📊 Power BI Report
 
 📌 Overview
 This Power BI dashboard provides insights into employee attrition, helping HR professionals understand trends, key factors, and workforce demographics.  
